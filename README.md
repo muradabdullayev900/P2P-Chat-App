@@ -15,6 +15,10 @@ SQLALCHEMY_DATABASE_URI = "mysql+pymysql://[user]:[password]@[ip_address]/[datab
 ```
 
 You can use ```/help``` command once you logged in to get further assitance
+
+### Important Note
+For Windows you should install redis server manually from [here](https://redis.io/download)
+
 ## Configuration
 
 ### Install requirements
